@@ -4,3 +4,4 @@ You can get your own API Key from this link "https://rapidapi.com/sujoyk211/api/
 
 <h3>References</h3>
 Mostly Google Gemini and some stackoverflow help was used to develop and debug this app. And off course a little bit of help from my sister &#128517;
+App was developed in Android Iguana 2023.2.1
